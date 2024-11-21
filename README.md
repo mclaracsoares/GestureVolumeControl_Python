@@ -1,6 +1,6 @@
 # GestureVolumeControl_Python
 
-### Desenvolvido por:
+### 🚀 Desenvolvido por:
 - **Lucas Eduardo Gurgel**
 - **Maria Clara Soares**
 - **Pedro Filipe Macedo**
@@ -38,4 +38,4 @@ Este projeto implementa uma interface intuitiva de controle de volume utilizando
 ## 📄 Licença
 - Este projeto é de código aberto e pode ser utilizado para fins educacionais e experimentais. Contribuições são bem-vindas!
 
-## 🎉 Obrigado por conferir nosso projeto! 🚀
+## 🎉 Obrigado por conferir nosso projeto!
